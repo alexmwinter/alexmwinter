@@ -12,12 +12,12 @@ I'm a **Cybersecurity Engineer** specializing in adversarial emulation and secur
 * **Infrastructure & Cloud:** AWS| Azure | Docker Orchestration | Secure Containerization | Home Lab Architecture
 * **DevSecOps & Tooling:** Node.js | React | AI Infrastructure Security | Compliance Automation
 
-### 💻 Featured Architecture & Security Work
+### Featured Architecture & Security Work
 * **Cyber Mission Support Platform (CMSP) (coming soon..):** Architecting the secure infrastructure and AI integrations for a platform designed to drastically expedite Risk Management Framework (RMF) and compliance pipelines.
 * **beyondBot:** Engineered the secure deployment and architecture of a fully private, self-hosted RAG AI pipeline within Azure, ensuring strict data privacy and enterprise-grade security.
 * **Security Tooling & Research:** Developing custom cybersecurity utilities, managing a secure self-hosted Docker environment, and documenting technical research.
 
-### 🌐 Connect & Learn More
+### Connect & Learn More
 To dive deeper into my security background, explore my architectural projects, or read my technical write-ups, check out my personal site:
 
 🔗 **[alexmwinter.github.io](https://alexmwinter.github.io)**
